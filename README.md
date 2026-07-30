@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Michael Elkhanno 👋
 
-<!--
-**elkhanno/elkhanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Informatics Student at UPN "Veteran" Jawa Timur & Passionate Full-Stack Web Developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently studying **Informatics** (Computer Science).
+- 💻 Tech StackFocus: **Laravel (PHP), JavaScript, Tailwind CSS, MySQL**.
+- 🛠️ Highlight Project: Developed **SAKTI** (Integrated Academic System) with proven Black Box & UAT testing scores.
+- 📬 How to reach me: `elkkhanno@email.com` *(ganti emailmu)*
+
+---
+
+### 🛠️ Tech Stack & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elkkhanno&show_icons=true&theme=tokyonight)
