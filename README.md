@@ -1,14 +1,13 @@
 # Hi there, I'm Michael Elkhanno Wijaya 👋
 
-An Informatics Student at UPN "Veteran" Jawa Timur & Aspiring Software Engineer / Web Developer.
+An Informatics Student at UPN "Veteran" Jawa Timur & Aspiring Web Developer.
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education:** Informatics Student at UPN "Veteran" Jawa Timur.
-- 💻 **Core Expertise:** Backend & Web Development using **Laravel, PHP, MySQL**, and **Tailwind CSS**.
-- 🧪 **Engineering Approach:** Strong focus on software quality, clean code, database relationships, Black Box Testing, and User Acceptance Testing (UAT).
-- 🏆 **Featured Project:** **SAKTI** (Sistem Akademik Terpadu Informatika) - An integrated academic web service tested with 92% Black Box success rate and 88.23% UAT score.
+- 💻 **Focus:** Full-Stack Web Development, Database Architecture & Software Quality.
+- 🏆 **Featured Project:** [SAKTI (Sistem Akademik Terpadu Informatika)](https://github.com/elkhanno/SAKTI) - Tested with 92% Black Box success rate & 88.23% UAT score.
 - 📬 **Contact:** `elkhannoww@gmail.com`
 
 ---
@@ -29,15 +28,3 @@ An Informatics Student at UPN "Veteran" Jawa Timur & Aspiring Software Engineer 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white)
-
----
-
-### 📊 Project Highlights & Metrics
-
-| Metric | Details |
-| :--- | :--- |
-| 🎓 **Education Status** | Informatics Undergraduate at UPN "Veteran" Jawa Timur |
-| 💻 **Main Tech Stack** | PHP (Laravel), MySQL, JavaScript, Tailwind CSS |
-| 🧪 **Quality Assurance** | Black Box Testing (92% Pass Rate), UAT (88.23% Score) |
-| 🏆 **Featured Project** | [SAKTI - Sistem Akademik Terpadu Informatika](https://github.com/elkhanno/SAKTI) |
-| 📈 **Focus Area** | Full-Stack Web Development, Database Architecture, Software Quality |
