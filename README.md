@@ -8,7 +8,7 @@ An Informatics Student at UPN "Veteran" Jawa Timur & Passionate Full-Stack Web D
 - 🎓 Currently studying **Informatics** (Computer Science).
 - 💻 Tech StackFocus: **Laravel (PHP), JavaScript, Tailwind CSS, MySQL**.
 - 🛠️ Highlight Project: Developed **SAKTI** (Integrated Academic System) with proven Black Box & UAT testing scores.
-- 📬 How to reach me: `elkkhanno@email.com` *(ganti emailmu)*
+- 📬 How to reach me: `elkkhannoww@email.com`
 
 ---
 
