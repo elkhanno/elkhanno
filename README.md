@@ -32,6 +32,12 @@ An Informatics Student at UPN "Veteran" Jawa Timur & Aspiring Software Engineer 
 
 ---
 
-### 📊 GitHub Stats
-![Elkhanno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elkhanno&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkhanno&layout=compact&theme=dark&hide_border=true)
+### 📊 Project Highlights & Metrics
+
+| Metric | Details |
+| :--- | :--- |
+| 🎓 **Education Status** | Informatics Undergraduate at UPN "Veteran" Jawa Timur |
+| 💻 **Main Tech Stack** | PHP (Laravel), MySQL, JavaScript, Tailwind CSS |
+| 🧪 **Quality Assurance** | Black Box Testing (92% Pass Rate), UAT (88.23% Score) |
+| 🏆 **Featured Project** | [SAKTI - Sistem Akademik Terpadu Informatika](https://github.com/elkhanno/SAKTI) |
+| 📈 **Focus Area** | Full-Stack Web Development, Database Architecture, Software Quality |
