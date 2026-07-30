@@ -1,18 +1,18 @@
-# Hi there, I'm Michael Elkhanno Wijaya 👋
+# Hi there, I'm Michael Elkhanno Wijaya
 
 An Informatics Student at UPN "Veteran" Jawa Timur & Aspiring Web Developer.
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Informatics Student at UPN "Veteran" Jawa Timur.
-- 💻 **Focus:** Full-Stack Web Development, Database Architecture & Software Quality.
-- 🏆 **Featured Project:** [SAKTI (Sistem Akademik Terpadu Informatika)](https://github.com/elkhanno/SAKTI) - Tested with 92% Black Box success rate & 88.23% UAT score.
-- 📬 **Contact:** `elkhannoww@gmail.com`
+### About Me
+- **Education:** Informatics Student at UPN "Veteran" Jawa Timur.
+- **Focus:** Full-Stack Web Development, Database Architecture & Software Quality.
+- **Featured Project:** [SAKTI (Sistem Akademik Terpadu Informatika)](https://github.com/elkhanno/SAKTI) - Tested with 92% Black Box success rate & 88.23% UAT score.
+- **Contact:** `elkhannoww@gmail.com`
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
